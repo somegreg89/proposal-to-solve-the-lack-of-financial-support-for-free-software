@@ -43,11 +43,11 @@ Of course, for this to happen, transparency must be ensured and the money donate
 
 Also the developers should be in this type of donation system so that the intermediary knows which free software project the donor is referring to and where the money would go.
 
-After resolving this issue, now every person on the planet where there is an intermediary nearby can donate with physical money to free software projects, they can give pennies or bills for such projects. *And every person with a (technology-related) place can do such a service* (who has the logistics to make such donations as opposed to the average person). And of course, this system of donations must be present in the unusual places of the planet, not only in the countries with greater economic proliferation.
+After solving this issue, now every person on the planet where there is an intermediary nearby can donate with physical money to free software projects, they can give pennies or bills for such projects. *A passionate child with his parents can perfectly well come and donate to free software projects.* And any person with a place (related to technology) can do such a service (which is the one who has the logistics to make these donations as opposed to the common person). And of course, this donation system must be present in the most unusual places on the planet, not only in the countries with the greatest economic proliferation.
 
 This is how we could solve one of the biggest problems of free software, and I hope that this idea can be taken into consideration so that we can all benefit in the long term from these principles of freedom under the economic system we live in today.
 
-## Spanish
+## Español
 
 He visto videos sobre como el software libre tiene un grave problema además de las interfaces de usuarios cuestionables y es la financiación.
 También he observado que muchos argumentan que en el fondo nadie quiere apoyar el software libre y solo quieren tener cosas gratis.
