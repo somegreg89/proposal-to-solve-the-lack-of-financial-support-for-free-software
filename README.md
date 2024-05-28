@@ -1,6 +1,55 @@
 # Proposal to solve the lack of financial support for free software
 
-He visto videos sobre como el software libre tiene un grave problema además de las interfaces de usuarios poco pensados es la financiación.
+## English
+I have seen videos about how free software has a serious problem besides questionables user interfaces and that is funding.
+I have also noticed that many argue that deep down no one wants to support free software and just want to have free stuff.
+In reality, no one is looking at the real reason for this problem, which I will explain below:
+
+Free software by definition is:
+
+* The freedom to run the program as you wish, for any purpose.
+* The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
+* The freedom to redistribute copies so you can help your neighbor.
+* The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+And because of the above, in **consequence**, the software ends up being free of charge in one way or another. But note this, **consequence**, not a planned feature within the fundamentals.
+
+The developers open up donations so that anyone can fund the projects, which is a good idea, but we can already see that it is causing a problem. Because of this, recently several developers choose to charge for compilations or implement subcription models. This is not wrong, they have full right to charge as long as the software is kept libre. The point is that what nobody has realized is that the way they intend to donate to free software is *born broken,* and for a simple reason: **it is electronic**.
+
+If we remember back to the beginning, free software is free of charge, and when something is free it means that the potential “customers” expands to a much larger audience, and this includes people:
+1. who can't afford proprietary software.
+2. Who are not legal enough to make such a transaction (minors).
+3. Who do not have a bank account or card to make electronic payments.
+
+Even, due to economic blockades, sanctions and others, they do not have the logistics **to even have access to the basic system that free software developers implement to receive money**.
+
+Taking into account these factors and because of the free nature, you end up having as users a lot of, *a lot of poor people,* or people very far from the system that the developers manage. And for your reference, [almost half of the world's population lives on less than $5.50 a day](https://www.bancomundial.org/es/news/press-release/2018/10/17/nearly-half-the-world-lives-on-less-than-550-a-day).
+
+If we add that many of these developers live in places with high cost of living, and most of their users do not even cover a quarter of that cost of living in their daily lives, it is clear that you would end up with very few donations in the long run.
+
+Here's the diagnosis of why there is little financial support for free software, it's not that people don't want to donate as such (although there are people who do), **but that you're covering users who don't even have the option to donate to you**.
+
+### Proposal
+
+The solution to this problem is an official or verified intermediary. 
+
+What does this intermediary do? This intermediary has physical locations (branches) with a sign “donations towards free software accepted” and in each one of them a person can come and give physical money for a free software project. This intermediary would take care of the necessary paperwork to register the donation and send the money to the corresponding project, unlike the donor who cannot do so for one reason or another. This is how more money would reach the free software projects.
+
+These intermediaries can be:
+* Dedicated stalls for this activity.
+* Technology or electronics stores
+
+Of course, for this to happen, transparency must be ensured and the money donated must reach the developers and not somewhere else. I do not know at the moment any mechanism to avoid this but it is certainly something to take into account if you want to implement this.
+
+Also the developers should be in this type of donation system so that the intermediary knows which free software project the donor is referring to and where the money would go.
+
+After resolving this issue, now every person on the planet where there is an intermediary nearby can donate with physical money to free software projects, they can give pennies or bills for such projects. *And every person with a (technology-related) place can do such a service* (who has the logistics to make such donations as opposed to the average person). And of course, this system of donations must be present in the unusual places of the planet, not only in the countries with greater economic proliferation.
+
+This is how we could solve one of the biggest problems of free software, and I hope that this idea can be taken into consideration so that we can all benefit in the long term from these principles of freedom under the economic system we live in today.
+
+## Spanish
+
+He visto videos sobre como el software libre tiene un grave problema además de las interfaces de usuarios cuestionables y es la financiación.
 También he observado que muchos argumentan que en el fondo nadie quiere apoyar el software libre y solo quieren tener cosas gratis.
 En el fondo, nadie está observando el verdadero motivo de este problema, que voy a explicar a continuación:
 
@@ -30,7 +79,7 @@ Si sumamos que muchos de estos desarrolladores viven en lugares con costo de vid
 
 E aquí el diagnóstico de por qué hay poco apoyo financiero en el software libre, no es que la gente no quiera donar como tal (aunque haya gente que es así), **sino que estás abarcando a usuarios que ni siquiera tienen la opción de donarte.**
 
-## Propuesta
+### Propuesta
 
 La solución para este problema es un intermediario oficial o verificado. 
 
