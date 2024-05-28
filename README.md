@@ -1,4 +1,4 @@
-# Proposal to solve the lack of financial support for free software
+# Proposal to solve the lack of financial support for free software / Propuesta para solucionar la falta de apoyo financiero al software libre
 
 ## English
 I have seen videos about how free software has a serious problem besides questionables user interfaces and that is funding.
