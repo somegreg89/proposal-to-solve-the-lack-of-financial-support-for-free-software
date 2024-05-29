@@ -23,7 +23,7 @@ If we remember back to the beginning, free software is free of charge, and when 
 
 Even, due to economic blockades, sanctions and others, they do not have the logistics **to even have access to the basic system that free software developers implement to receive money**.
 
-Taking into account these factors and because of the free nature, you end up having as users a lot of, *a lot of poor people,* or people very far from the system that the developers manage. And for your reference, [almost half of the world's population lives on less than $5.50 a day](https://www.bancomundial.org/es/news/press-release/2018/10/17/nearly-half-the-world-lives-on-less-than-550-a-day).
+Taking into account these factors and because of the free nature, you end up having as users a lot of, *a lot of poor people,* or people very far from the system that the developers manage. And for your reference, [almost half of the world's population lives on less than $5.50 a day](https://www.worldbank.org/en/news/press-release/2018/10/17/nearly-half-the-world-lives-on-less-than-550-a-day).
 
 If we add that many of these developers live in places with high cost of living, and most of their users do not even cover a quarter of that cost of living in their daily lives, it is clear that you would end up with very few donations in the long run.
 
